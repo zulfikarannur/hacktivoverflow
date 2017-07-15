@@ -39,6 +39,8 @@ export default {
   },
   getPosVote: function () {
   },
+  getNegVote: function () {
+  },
   created: function () {
     this.getForums()
   }
