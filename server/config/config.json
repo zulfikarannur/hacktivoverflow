@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "zulfikarannur",
+    "password": "zoelfiekar231094",
+    "database": "hacktiv_overflow",
+    "host": "127.0.0.1",
+    "port" : "5432",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "zulfikarannur",
+    "password": "zoelfiekar231094",
+    "database": "hacktiv_overflow_test",
+    "port" : "5432",
+    "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL"
+  }
+}
