@@ -37,6 +37,8 @@ export default {
       })
     }
   },
+  getPosVote: function () {
+  },
   created: function () {
     this.getForums()
   }
